@@ -161,3 +161,9 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 .idea/
 .idea
+.idea/REST_API_hw17.iml
+	новый файл:    .idea/inspectionProfiles/profiles_settings.xml
+	новый файл:    .idea/misc.xml
+	новый файл:    .idea/modules.xml
+	новый файл:    .idea/vcs.xml
+	новый файл:    .idea/workspace.xml
